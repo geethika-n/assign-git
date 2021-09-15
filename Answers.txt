@@ -1,0 +1,4 @@
+1. Git ignore file tells git which files(untracked) to ignore.
+2. When you merge a branch that is before the branch you checked out git does the fast forward.
+3. Having different branches helps multiple people work on the same project and we can merge the versions easily
+4. However many
